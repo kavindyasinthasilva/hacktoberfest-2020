@@ -9,4 +9,4 @@ Start contributing, it matters.
 
 Lets save it before, we could ever imagine
 
-![assets/images/omkumar40.jpg]()
+![https://github.com/omkumar40/hacktoberfest-2020/blob/master/image/omkumar40.jpg]()
