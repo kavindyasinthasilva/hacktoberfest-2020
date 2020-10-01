@@ -1,11 +1,11 @@
-# hacktoberfest-2020 😀 😀
+# hacktoberfest-2020 😀😀🥳🥳🥳
 (Easy)
 
 ![Image](https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png)
 
 ![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/Untitled-1.png)
 
-## Start Hacking🤗🤗🤗🤗
+## Start Hacking🤗🤗🤗🤗🥳
 
 Let's change the world together with `Open-Source` & make an awareness on `climate change`
 
@@ -30,7 +30,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
 
-🎁 A `hackbar` contains -
+🎁 A `Hacktoberfest` contains -🥳
 
 1. A message on `open-source`.
 1. A message on `climate change`.
@@ -125,7 +125,7 @@ git push
 14. Next...
 ![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_2.jpg)
 
-15. 🎉🎉🎉 Congratulations. Your PR is live.
+15. 🎉🎉🎉 Congratulations. Your PR is live.🥳
 
 
 
@@ -171,4 +171,4 @@ https://opensource.com/article/19/7/create-pull-request-github
 
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
 
-Thank you
+Thank you🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
