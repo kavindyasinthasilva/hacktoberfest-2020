@@ -26,7 +26,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 ---
 
-# [Hackbars](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars) 🍫
+# Hacktoberfest
 
 All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
 
@@ -38,7 +38,7 @@ All of our user-submitted `hackbars` are available in the `/_hackbars` directory
 
 # How to contribute
 
-## To contribute a hackbar 🍫 - 
+## To contribute a Hacktoberfest 🍫 - 
 
 1. `Fork` the repository.
 ![Fork](/assets/docs_img/fork.jpg)
