@@ -28,7 +28,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 # Hacktoberfest
 
-All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
+All of our user-submitted `Hacktoberfest` are available in the `Hacktoberfest` directory.
 
 🎁 A `Hacktoberfest` contains -🥳
 
