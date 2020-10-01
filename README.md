@@ -117,13 +117,13 @@ git push
 ```
 
 12. Create a pull request
-![PR](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR.jpg%20-%20Shortcut.lnk)
+![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR.jpg%20-%20Shortcut.lnk)
 
 13. Next...
-![PR](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_1.jpg%20-%20Shortcut.lnk)
+![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_1.jpg%20-%20Shortcut.lnk)
 
 14. Next...
-![PR](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_2.jpg%20-%20Shortcut.lnk)
+![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_2.jpg%20-%20Shortcut.lnk)
 
 15. 🎉🎉🎉 Congratulations. Your PR is live.
 
