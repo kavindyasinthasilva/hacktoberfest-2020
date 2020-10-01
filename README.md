@@ -89,7 +89,7 @@ For example -
 ---
 layout: hacktoberfest-2020
 title: Open Source
-author: Tasnim Zotder
+author: SkySilva
 ---
 
 In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
