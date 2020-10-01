@@ -40,7 +40,7 @@ textarea {
 }
 
 .cover-img .cover-inner {
-  background: url(https://images.pexels.com/photos/4665064/pexels-photo-4665064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background: url(https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png);
   height: 190px;
   background-size: cover;
   background-position: 10%;
@@ -188,7 +188,7 @@ textarea {
   content: "";
   display: block;
   position: absolute;
-  background-image: url("https://www.freepnglogos.com/uploads/tick-png/check-mark-tick-vector-graphic-21.png");
+  background-image: url("https://hacktoberfest.digitalocean.com/assets/og-hf20-cf92d1a3bfc78883ea79dbac1518f1a4f1585e23eb69337ea730447cb70fa777.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 16px 16px;
