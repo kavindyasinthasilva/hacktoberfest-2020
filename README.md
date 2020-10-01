@@ -70,7 +70,7 @@ code .
 8. In the `your_name.md` file type as the following lines.
 ```markdown
 ---
-layout: hackbar
+layout: hacktoberfest-2020
 title: any_title
 author: your_name
 ---
@@ -87,7 +87,7 @@ Change `image_name` with your actual image file name.<br>
 For example -
 ```markdown
 ---
-layout: hackbar
+layout: hacktoberfest-2020
 title: Open Source
 author: Tasnim Zotder
 ---
