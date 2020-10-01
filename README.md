@@ -26,7 +26,8 @@ Read the participation details to learn how to earn your Hacktoberfest tee or tr
 
 ## What is you do? (How to Create Pull pull Requests)
 
-
+## code
+--
 $ git checkout -b new_branch
 Switched to a new branch ‘new_branch’
 $ echo “some test file” > test
@@ -55,7 +56,7 @@ Remote:
  * [new branch]         new_branch -> new_branch
 
 
-
+--
 
 
 
