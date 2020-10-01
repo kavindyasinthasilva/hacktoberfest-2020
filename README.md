@@ -18,7 +18,7 @@ Let's change the world together with `Open-Source` & make an awareness on `clima
 
 ## Time is short but together we still have a chance to `recover our planet earth` 🌍.
 
-![Hacktoberfest](/assets/docs_img/hacktoberfest.jpg)
+![Hacktoberfest](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/fork.jpg)
 
 ## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
 
