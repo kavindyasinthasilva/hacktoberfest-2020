@@ -27,28 +27,9 @@ Read the participation details to learn how to earn your Hacktoberfest tee or tr
 ## What is you do? (How to Create Pull pull Requests)
 
 
-vonage logo
-circleci logo
-jetbrains logo
-github logo
-Indeed Logo
-MLH Logo
-Gremlin Logo
-Progate Logo
-Stripe Logo
-Freshworks Logo
-Cloudflare Logo
-Cockroach Labs Logo
-Pulumi Logo
-Mattermost Logo
-Gitcoin Logo
-Raise.dev Logo
-MongoDB Logo
-Open Source Collective Logo
-Tree-Nation Logo
+https://opensource.com/article/19/7/create-pull-request-github
 
 
-## code
 
 
 
