@@ -81,7 +81,7 @@ author: your_name
 
 ## <!-- Your MESSAGE on climate change -->
 
-![image_caption]({{site.baseurl}}/assets/images/image_name.jpg)
+![image_caption]()
 ```
 Change `image_name` with your actual image file name.<br>
 For example -
@@ -98,7 +98,7 @@ In open source, we feel strongly that to really do something well, you have to g
 
 ## We are losing the chance ⏱
 
-![Ending Earth]({{site.baseurl}}/assets/images/shahil_akter.jpg)
+![Ending Earth]()
 ```
 
 9. Add the changed files
