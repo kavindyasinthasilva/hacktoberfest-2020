@@ -123,7 +123,7 @@ git push
 ![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_1.jpg)
 
 14. Next...
-![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_2.jpg%20-%20Shortcut.lnk)
+![Image](https://github.com/kavindyasinthasilva/hacktoberfest-2020/blob/master/image/PR_2.jpg)
 
 15. 🎉🎉🎉 Congratulations. Your PR is live.
 
