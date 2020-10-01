@@ -5,6 +5,15 @@ const list = document.querySelectorAll(".todos li");
 
 const lang = navigator.language;
 
+
+ --------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                     =================================
+layout: hacktoberfest-2020
+title: Open Source
+author: Tasnim Zotder
+=====================================================================================================================================================
+
+
 let date = new Date();
 
 let dayName = date.toLocaleString(lang, {
