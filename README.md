@@ -26,9 +26,6 @@
 
 
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license]()**
 - Copyright 2020 © <a href="http://kavinduyasintha.tech" target="_blank">kavinduyasintha</a>.
 
 Thank you
