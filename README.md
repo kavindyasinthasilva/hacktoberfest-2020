@@ -7,6 +7,126 @@
 
 ## Start Hacking🤗🤗🤗🤗
 
+Let's change the world together with `Open-Source` & make an awareness on `climate change`
+
+<p align="center">
+  <a><img src="https://img.shields.io/github/labels/tasnimzotder/hacktoberfest-2020/hacktoberfest?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/hacktoberfest/2020/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/issues/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/issues-pr/tasnimzotder/hacktoberfest-2020?style=flat-square" /></a>
+</p>
+
+## Time is short but together we still have a chance to `recover our planet earth` 🌍.
+
+![Hacktoberfest](/assets/docs_img/hacktoberfest.jpg)
+
+## 📝 [Register here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest 2020
+
+### 👉 Pull requests for Hacktoberfest count October 1-31.
+
+---
+
+# [Hackbars](https://tasnimzotder.github.io/hacktoberfest-2020/hackbars) 🍫
+
+All of our user-submitted `hackbars` are available in the `/_hackbars` directory.
+
+🎁 A `hackbar` contains -
+
+1. A message on `open-source`.
+1. A message on `climate change`.
+1. A image of `climate change awareness` or a selfie with `plantation`.
+
+# How to contribute
+
+## To contribute a hackbar 🍫 - 
+
+1. `Fork` the repository.
+![Fork](/assets/docs_img/fork.jpg)
+
+2. `Clone` the `forked` repository from your account.
+![Clone](/assets/docs_img/clone.jpg)
+Copy the `url` and paste the `url` in the `terminal`/ `git bash`/ `cmd` or `powershell`.
+Don't copy the `url` given below.
+```bash
+git clone https://github.com/{your-username}/hacktoberfest-2020.git
+```
+
+3. Go to the directory
+```bash
+cd hacktoberfest-2020
+```
+
+4. Open the directory in `VS Code` (or any other code editor)
+```bash
+code .
+```
+
+5. Download a `copyright free` image on `climate change` or take a selfie with your `plantation`. The image size should < `150 KB`.
+
+6. Rename the image as `your_name.jpg` [no space] and copy the to `assets/images/` directory.
+
+7. Go to `_hackbars` and create a new file `your_name.md`
+
+8. In the `your_name.md` file type as the following lines.
+```markdown
+---
+layout: hackbar
+title: any_title
+author: your_name
+---
+
+<!-- Your MESSAGE on open source-->
+
+---
+
+## <!-- Your MESSAGE on climate change -->
+
+![image_caption]({{site.baseurl}}/assets/images/image_name.jpg)
+```
+Change `image_name` with your actual image file name.<br>
+For example -
+```markdown
+---
+layout: hackbar
+title: Open Source
+author: Tasnim Zotder
+---
+
+In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
+
+---
+
+## We are losing the chance ⏱
+
+![Ending Earth]({{site.baseurl}}/assets/images/shahil_akter.jpg)
+```
+
+9. Add the changed files
+```bash
+git add .
+```
+
+10. `Commit` the changes you have made
+```bash
+git commit -m "your_message"
+```
+
+11. `Push` the codes to your repository
+```bash
+git push
+```
+
+12. Create a pull request
+![PR](/assets/docs_img/PR.jpg)
+
+13. Next...
+![PR](/assets/docs_img/PR_1.jpg)
+
+14. Next...
+![PR](/assets/docs_img/PR_2.jpg)
+
+15. 🎉🎉🎉 Congratulations. Your PR is live.
+
 
 
 
