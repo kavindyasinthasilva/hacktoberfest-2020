@@ -1,5 +1,7 @@
 layout: hacktoberfest-2020
+
 title: Awareness without action is worthless
+
 author: Muskan Rani
 ---
 
