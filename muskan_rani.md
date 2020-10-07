@@ -1,15 +1,12 @@
 layout: hacktoberfest-2020
 
-title: Awareness without action is worthless
+title: Global Warming
 
-author: Muskan Rani
+author: Harbajan 
 ---
 
-Start contributing, because together we create.
+Start contributing,Hurry up.
 
 ---
 
-##Awareness without action is worthless!
-
-<img src="image/muskan_rani.jpg" height="400">
 
