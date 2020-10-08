@@ -1,1 +1,3 @@
 Printf("Hello world");
+
+system.out.pritln("hello world");
