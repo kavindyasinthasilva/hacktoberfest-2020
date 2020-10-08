@@ -1,13 +1,8 @@
 ---
-layout: hacktoberfest-2020
-title: Open Source
-author: Tanut Leelaparsert
+layout: hacktoberfest
+author
 ---
 
-I Like Programming
+Programming is important
 
 ---
-
-## We are losing the chance
-
-![Changetheworld]({{site.baseurl}}/assets/images/tanut2539.png)
