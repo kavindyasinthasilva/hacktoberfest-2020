@@ -1,7 +1,7 @@
 ---
-layout: hacktoberfest-2020
-title: web dev
-author: aimee
+layout: hacktoberfest-2021
+title: Web Developr
+author: akila sachintha
 ---
 
 ## Help people out to become a better developer
