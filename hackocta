@@ -1,8 +1,0 @@
-Printf("Hello world");
-
-system.out.pritln("hello world");
-
-Consol.write.line("HELO WORLD");
-
-
-PRINTF();
