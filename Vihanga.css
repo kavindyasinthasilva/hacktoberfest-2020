@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-database.js"></script>
+</head>
+<body>
+    <input type="text" id="Soil"> 
+    <button type="submit" id="sendsoil">Soil</button>
+    <script>
+      var firebaseConfig = {
+          apiKey: "AIzaSyBdo8Nk3J7E8xUCIEFM_axrbTgt74CzEX4",
+          authDomain: "iot-project-23662.firebaseapp.com",
+          projectId: "iot-project-23662",
+          storageBucket: "iot-project-23662.appspot.com",
+          messagingSenderId: "1050983860857",
+          appId: "1:1050983860857:web:4a432acfb3e674177c62a8"
+        };
+        
+        firebase.initializeApp(firebaseConfig);
+        var firebaseRef = firebase.database().ref('Soil');
+        document.querySelector('#sendsoil').addEventListener('click',()=>{
+            const Soil = document.getElementById('Soil').value;
+            firebaseRef.push(Soil);
+        })
+      </script>
+
+    <input type="text" id="Number"> 
+    <button type="submit" id="sendnumber">Number</button>
+    <script>
+       var firebaseRefs = firebase.database().ref('Numbers');
+        document.querySelector('#sendnumber').addEventListener('click',()=>{
+          const Number = document.getElementById('Number').value;
+          firebaseRefs.push(Number);
+      })
+  </script>
+
+    <input type="text" id="Gas"> 
+    <button type="submit" id="sendgas">Gas</button>
+    <script>
+        var firebaseRefd = firebase.database().ref('Gas');
+          document.querySelector('#sendgas').addEventListener('click',()=>{
+          const Gas = document.getElementById('Gas').value;
+          firebaseRefd.push(Gas);
+       })
+    </script>
+
+    <input type="text" id="Light"> 
+    <button type="submit" id="sendlight">Light</button>
+    <script>
+        var firebaseRefc = firebase.database().ref('Light');
+        document.querySelector('#sendlight').addEventListener('click',()=>{
+        const Light = document.getElementById('Light').value;
+        firebaseRefc.push(Light);
+      })
+    </script>
+</body>
+</html>
+
